@@ -1,0 +1,26 @@
+# Python環境
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OSやエディタ関連
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# VSCode関連
+.vscode/
