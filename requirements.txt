@@ -1,0 +1,7 @@
+streamlit>=1.30.0
+pandas>=2.1.0
+numpy>=1.25.0
+plotly>=5.19.0
+jpholiday>=0.1.7
+supabase>=1.0.3
+streamlit-javascript>=0.1.5
